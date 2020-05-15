@@ -11,15 +11,15 @@
 ## Layout
 
 <p>
-<img src="./github/img-1.png">
+<img src="./github/img1.png">
 <p>
 
 <p>
-<img src="./github/img-2.png">
+<img src="./github/img2.png">
 <p>
 
 <p>
-<img src="./github/img-3.png">
+<img src="./github/img3.png">
 <p>
 
 ## Instalação
